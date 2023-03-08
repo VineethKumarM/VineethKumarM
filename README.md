@@ -48,7 +48,7 @@
 ### My Projects
 <div align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VineethKumarM&repo=Timetable-and-Class-Links&theme=jolly&hide_border=true" alt="Timetable-Repo" width="400" height="120"/><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VineethKumarM&repo=JS-Game&theme=jolly&hide_border=true" alt="Vineeth's Github Streak" width="400" height="120"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VineethKumarM&repo=YummyReviews-frontend&theme=jolly&hide_border=true" alt="Timetable-Repo" width="400" height="120"/><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VineethKumarM&repo=hardware-auditing-tool&theme=jolly&hide_border=true" alt="Vineeth's Github Streak" width="400" height="120"/>
 
 
 </div>
