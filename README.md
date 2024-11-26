@@ -2,9 +2,7 @@
 <img align="right" src="./assets/coverImg.gif" width="400px"> 
 <h4 style="font-size: 30px;">I'm Vineeth Kumar, graduated from IIIT Allahabad. Always learning!</h4>
 <br>
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](munigyala@gmai.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineeth-kumar-munigyala/)
-  
+
 
 ### Technical skills
 
@@ -32,7 +30,7 @@
 
 <div align="center">
   <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VineethKumarM&show_icons=true&locale=en&theme=jolly&hide_border=true" alt="Vineeth's Github Stats" width="600"/> 
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VineethKumarM&show_icons=true&locale=en&theme=jolly&hide_border=true" alt="Vineeth's Github Stats" width="600"/>  -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VineethKumarM&theme=jolly&hide_border=true" alt="Vineeth's Github Streak" width="600"/>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineethKumarM&layout=compact&theme=jolly&hide_border=true" alt="Vineeth's Github Streak" width="600"/> -->
 
